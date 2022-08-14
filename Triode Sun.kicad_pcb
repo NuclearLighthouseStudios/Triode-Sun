@@ -225,7 +225,7 @@
     (at 91.44 56.515)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 156cf160-d6f8-4f68-b8eb-cf2e4df7f2e8)
@@ -248,7 +248,7 @@
     (at 139.7 56.515)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d715734e-ceb6-455a-a26b-8451a1eb99fb)
@@ -271,7 +271,7 @@
     (at 140.335 103.505)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f48abd32-9603-42d8-b0ca-81799071b112)
@@ -294,7 +294,7 @@
     (at 90.805 103.505)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9bc0b374-8749-4500-b9f5-b3c44a6f8a2e)
@@ -777,7 +777,7 @@
   (footprint "logos:foxlogo" locked (layer "F.Cu")
     (tedit 5B029788) (tstamp 00000000-0000-0000-0000-00005d2f14da)
     (at 115.57 75.184)
-    (attr exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 8.75) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7b38a623-b73d-4307-aeca-51ed05afe33a)
